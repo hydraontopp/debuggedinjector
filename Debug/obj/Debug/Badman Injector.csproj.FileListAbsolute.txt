@@ -1,0 +1,5 @@
+C:\Users\hydra\OneDrive\Desktop\Injector\obj\Debug\Badman Injector.csproj.SuggestedBindingRedirects.cache
+C:\Users\hydra\OneDrive\Desktop\Injector\obj\Debug\BadmanInjector.MainForm.resources
+C:\Users\hydra\OneDrive\Desktop\Injector\obj\Debug\BadmanInjector.Properties.Resources.resources
+C:\Users\hydra\OneDrive\Desktop\Injector\obj\Debug\Badman Injector.csproj.GenerateResource.cache
+C:\Users\hydra\OneDrive\Desktop\Injector\obj\Debug\Badman Injector.csproj.CoreCompileInputs.cache
